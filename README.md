@@ -1,7 +1,9 @@
 # AKBC2021-Abg-CoQA
 Repo for our AKBC 2021 paper: [Abg-CoQA: Clarifying Ambiguity in Conversational Question Answering](https://openreview.net/pdf?id=SlDZ1o8FsJU)
 
-
+<p align="center">
+  <img src="https://github.com/MeiqiGuo/AKBC2021-Abg-CoQA/blob/main/images/Abg-CoQA.png"/>
+</p>
 
 If you found this repository useful, please cite our paper
 ```
